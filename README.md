@@ -1,7 +1,9 @@
 # Project2
 
 -Implemented Gossip and Push-Sum algorithm for aggregate computation and convergence determination. 
+
 -Node failure and recovery model to analyse issues and performance of algorithm. 
+
 -Perfomance comparison of different network topologies like Line, Full Network, 3D Grid and Imperfect 3D Grid on both Push-Sum and Gossip 
 
 ## Installation
